@@ -1,8 +1,6 @@
 # vim-react-proptypes-snippets
 > A set of snippets for Vim to work with Facebook's [React](http://facebook.github.io/react/) PropTypes.
 
-## Demo
-
 ![demo gif](vim-demo.gif)
 
 ## Installation
@@ -41,7 +39,7 @@ PropTypes.func.isRequired,
 ```
 
 And a bunch of others!
-Check `UltiSnips/javascript.snippets` to see the full list.
+Check [UltiSnips/javascript.snippets](UltiSnips/javascript.snippets) to see the full list.
 
 ## License
 
