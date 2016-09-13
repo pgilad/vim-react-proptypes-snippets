@@ -10,6 +10,10 @@ Use your preferred Vim plugin installation method.
 - [Vundle](https://github.com/gmarik/vundle)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 
+## Demo
+
+![demo gif](vim-demo.gif)
+
 ### UltiSnips
 
 ```vim
