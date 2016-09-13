@@ -1,7 +1,9 @@
 # vim-react-proptypes-snippets
 > A set of snippets for Vim to work with Facebook's [React](http://facebook.github.io/react/) PropTypes.
 
-Requires [Ultisnips](https://github.com/SirVer/ultisnips).
+## Demo
+
+![demo gif](vim-demo.gif)
 
 ## Installation
 
@@ -10,11 +12,7 @@ Use your preferred Vim plugin installation method.
 - [Vundle](https://github.com/gmarik/vundle)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 
-## Demo
-
-![demo gif](vim-demo.gif)
-
-### UltiSnips
+Example using `NeoBundle`:
 
 ```vim
 " vim-react-snippets:
