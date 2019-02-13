@@ -43,4 +43,4 @@ Check [UltiSnips/javascript.snippets](UltiSnips/javascript.snippets) to see the 
 
 ## License
 
-MIT @Gilad Peleg
+MIT © [Gilad Peleg](https://www.giladpeleg.com)
